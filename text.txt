@@ -1,3 +1,7 @@
 hello, my name is Elyor
+<<<<<<< HEAD
 I'm very interesting person
 And I think we will be friends
+=======
+>>>>>>> parent of a812e50... Second commmit
+And I think, we will be friends
